@@ -99,3 +99,9 @@ header nav a:hover {
 .carrosel-animes{
     margin-top: 5px;
 }
+
+.Destaque{
+    margin: 10px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
